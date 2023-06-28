@@ -1,7 +1,7 @@
-# IPEO 2022 Project Submission
+
 
 # FloodNet: Segmentation of images during a flooding event
-# Group 3: Chang Chun, Maria Eremina, Tian Tian
+# Group : Chang Chun, Maria Eremina, Tian Tian
 
 
 
