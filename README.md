@@ -14,25 +14,3 @@ This is the full code of this project "FloodNet_Group3.ipynb", it best run in go
 
 
 
-## Setup
-
-please tell us how to install dependencies in a new python environment for this code:
-```
-# create a local virtual environment in the venv folder
-python -m venv venv
-# activate this environment
-source venv/bin/activate
-# install requirements
-pip install -r requirements.txt
-```
-
-we will start jupyter notebook in this environment and then run your evaluation.ipynb
-```
-jupyter notebook
-```
-
-## Repostory Size and Runtime Considerations
-
-* we will not train a model for you. Provide a checkpoint and some (few) test data to reproduce your results.
-* please do not commit massively large files (>500MB) in a repository. Maybe add one final model checkpoint that you do not update anymore (any update of large files in this repository will increase its size massively).
-* if you have larger datasets, make sure that you make it available online (e.g. via GoogleDrive and EnacShare) and tell us how to download it if necessary.
