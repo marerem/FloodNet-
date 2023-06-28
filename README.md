@@ -3,6 +3,7 @@
 # FloodNet: Segmentation of images during a flooding event
 ### Group : Chang Chun, Maria Eremina, Tian Tian
 
+<img width="920" alt="Screenshot 2023-06-28 at 22 53 27" src="https://github.com/marerem/FloodNet-/assets/101661237/e0ee1439-887a-4bba-bb9b-9dacc40fb7fc">
 
 
 ## Evaluation Repository
