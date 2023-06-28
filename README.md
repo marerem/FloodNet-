@@ -1,7 +1,7 @@
 
 
 # FloodNet: Segmentation of images during a flooding event
-# Group : Chang Chun, Maria Eremina, Tian Tian
+### Group : Chang Chun, Maria Eremina, Tian Tian
 
 
 
